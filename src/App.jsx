@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div id="app">
-      <h1>Pedorro todo 🗒️</h1>
+      <h1>App to-do 🗒️</h1>
       <div className="container">
         <form>
           <h2>Add Item</h2>
