@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/todo-assign-4/static/css/main.8084b176.css",
-    "main.js": "/todo-assign-4/static/js/main.5b0a2cfb.js",
+    "main.js": "/todo-assign-4/static/js/main.af379f61.js",
     "index.html": "/todo-assign-4/index.html",
     "main.8084b176.css.map": "/todo-assign-4/static/css/main.8084b176.css.map",
-    "main.5b0a2cfb.js.map": "/todo-assign-4/static/js/main.5b0a2cfb.js.map"
+    "main.af379f61.js.map": "/todo-assign-4/static/js/main.af379f61.js.map"
   },
   "entrypoints": [
     "static/css/main.8084b176.css",
-    "static/js/main.5b0a2cfb.js"
+    "static/js/main.af379f61.js"
   ]
 }
