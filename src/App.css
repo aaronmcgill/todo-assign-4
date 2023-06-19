@@ -85,6 +85,10 @@ h2 {
   font-size: 20px;
 }
 
+.red {
+  background-color: rgb(150, 53, 53);
+}
+
 .items button.delete {
   background-color: rgb(150, 53, 53);
   padding: 13px 15px;
@@ -143,7 +147,7 @@ h2 {
 
 .container button:after {
   background-clip: padding-box;
-  background-color: #198754;
+  /* background-color: #198754; */
   border: solid transparent;
   border-radius: 16px;
   border-width: 0 0 4px;
